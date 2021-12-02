@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align = "left">A developer from Colombia</h4></p>
 ### Hi there 👋 <!-- Gif--></p><p align = "left"><img src="https://media.giphy.com/media/dbRxGNy8DTyQE/giphy.gif" width="100" height="150" />
-<br></br><p align = "left"
+<p align = "left"
 - 📫 How to reach me: ...santiagop.diaz@hotmail.com
 - <br></br>
 - 👯 I’m looking to collaborate on ... different web projects
