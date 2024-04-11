@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 <h2 align = "center"> Thiago Diaz</h2>
 
-<p align = "left">I'm from Colombia</h4></p>
 ### Hi there 👋 <!-- Gif--></p><p align = "left"><img src="https://media.giphy.com/media/dbRxGNy8DTyQE/giphy.gif" width="100" height="150" />
 <p align = "left"
 - 📫 How to reach me: ...santiagop.diaz@hotmail.com
