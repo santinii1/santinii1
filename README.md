@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align = "left"
 - 📫 How to reach me: ...santiagop.diaz@hotmail.com
 - <br></br>
-- 👯 I hope you are doing well, I would like to connect with people who really like the world of programming.
+- 🤓 I hope you are doing well, I would like to connect with people who really like the world of programming.
 <br></br>
 - 🌱 I’m currently learning ...Languages and Tools:
 <!--<h3 align="left">Languages and Tools:</h3>-->
