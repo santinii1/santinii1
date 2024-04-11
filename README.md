@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 <h2 align = "center"> Santiago Diaz</h2>
 
-<p align = "left">A developer from Colombia</h4></p>
+<p align = "left">I'm from Colombia</h4></p>
 ### Hi there 👋 <!-- Gif--></p><p align = "left"><img src="https://media.giphy.com/media/dbRxGNy8DTyQE/giphy.gif" width="100" height="150" />
 <p align = "left"
 - 📫 How to reach me: ...santiagop.diaz@hotmail.com
 - <br></br>
-- 👯 I’m looking to collaborate on ... different web projects
+- 👯 I hope you are doing well, I would like to connect with people who really like the world of programming.
 <br></br>
 - 🌱 I’m currently learning ...Languages and Tools:
 <!--<h3 align="left">Languages and Tools:</h3>-->
